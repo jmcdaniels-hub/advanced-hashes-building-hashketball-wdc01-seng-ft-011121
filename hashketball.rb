@@ -1,5 +1,4 @@
 
-
 def game_hash 
 teams_hash = {
   :home => {
